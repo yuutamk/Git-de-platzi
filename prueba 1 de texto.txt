@@ -1,2 +1,4 @@
 documento de prueba chido para hacer con git
 ahora es un cambio de nuevo
+
+pasas que cosan pero a veces no pasa cosas
